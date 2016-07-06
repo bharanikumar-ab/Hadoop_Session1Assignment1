@@ -1,2 +1,2 @@
-# Hadoop_Assignments
-Hadoop_Assignments
+# Hadoop_Session1Assignment1
+Hadoop_Session1Assignment1
